@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nattan447&label=Profile%20views&color=0e75b6&style=flat" alt="nattan447" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nattan447" alt="nattan447" /></a> </p>
-
 - 🔭 I’m currently working on [Caregiver](https://github.com/nattan447/Caregiver_expo)
 
 - 🌱 I’m currently learning **React Native and Typescript**
