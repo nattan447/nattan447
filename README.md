@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Caregiver](https://github.com/nattan447/Caregiver_expo)
 
-- 🌱 I’m currently learning **React Native and Typescript**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **nattanferreira58@gmail.com**
 
