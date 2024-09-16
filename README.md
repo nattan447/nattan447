@@ -1,5 +1,4 @@
 <h1 align="center">Opa 👋, I'm nattan</h1>
-<h3 align="center">A React Native developer</h3>
 
 - 🔭 I’m currently working on [Caregiver](https://github.com/nattan447/Caregiver_expo)
 
