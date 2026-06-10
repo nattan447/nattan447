@@ -1,7 +1,7 @@
 <h3 align="left"> Computer Science Student at University of São Paulo (USP)</h3>
 
 
-**<div align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nattan447&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattan447&layout=compact&theme=radial&hide_border=true" height="150" alt="languages graph" />
 </div>
