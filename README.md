@@ -2,8 +2,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nattan447&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattan447&layout=compact&theme=radial&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nattan447&theme=radial" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nattan447&theme=radial" height="150" alt="languages graph" />
 </div>
 
 
@@ -33,10 +33,10 @@
 ### Connect with me
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU_USUARIO_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/nattan-ferreira-8aa0a0232/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-  <a href="mailto:seu.email@usp.br">
+  <a href="mailto:nattanferreira@usp.br">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
   </a>
 </div>
