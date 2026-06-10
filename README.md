@@ -2,10 +2,9 @@
 
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nattan447&theme=radial" height="150" alt="stats graph" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nattan447&theme=radial" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=nattan447&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=nattan447&layout=compact&theme=radial&hide_border=true" height="150" alt="languages graph" />
 </div>
-
 
 
 <img align="right" height="110" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6NHlkam53bWZjdW9qcWQzY3hoZ2NvZmdxZmQ5OTc5OHM0NTgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="coding gif" />
