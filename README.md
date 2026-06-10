@@ -1,13 +1,12 @@
-<h3 align="left">🎓 Computer Science Student at University of São Paulo (USP)</h3>
+<h3 align="left"> Computer Science Student at University of São Paulo (USP)</h3>
 
----
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nattan447/nattan447/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/nattan447/nattan447/languages-output/languages.svg" height="150" alt="languages graph" />
+**<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nattan447&show_icons=true&theme=radial&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattan447&layout=compact&theme=radial&hide_border=true" height="150" alt="languages graph" />
 </div>
 
----
+
 
 <img align="right" height="110" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXV6NHlkam53bWZjdW9qcWQzY3hoZ2NvZmdxZmQ5OTc5OHM0NTgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" alt="coding gif" />
 
@@ -48,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nattan447/nattan447/snake-output/snake.svg" alt="Snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/nattan447/nattan447/snake-output/github-contribution-grid-snake.svg" alt="Snake" />
 </div>
